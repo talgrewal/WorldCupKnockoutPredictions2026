@@ -241,5 +241,199 @@ const predictions = [
         "prediction": "ItalyWArgentina"
       }
     ]
+  },
+  {
+    "name": "Hxd",
+    "date": "2026-06-25T10:08:20.141Z",
+    "goldenBoot": "Bdjd",
+    "goldenBall": "Ndnd",
+    "predictions": [
+      {
+        "game": "Game1",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "ArgentinaWAustralia"
+      },
+      {
+        "game": "Game2",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "CanadaWBrazil"
+      },
+      {
+        "game": "Game3",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "CroatiaWFrance"
+      },
+      {
+        "game": "Game4",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "DenmarkWEngland"
+      },
+      {
+        "game": "Game5",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "SpainWEcuador"
+      },
+      {
+        "game": "Game6",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "GhanaWGermany"
+      },
+      {
+        "game": "Game7",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "IranWPortugal"
+      },
+      {
+        "game": "Game8",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "JapanWNetherlands"
+      },
+      {
+        "game": "Game9",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "MexicoWBelgium"
+      },
+      {
+        "game": "Game10",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "MoroccoWItaly"
+      },
+      {
+        "game": "Game11",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "NigeriaWUruguay"
+      },
+      {
+        "game": "Game12",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "ColombiaWPoland"
+      },
+      {
+        "game": "Game13",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "QatarWUSA"
+      },
+      {
+        "game": "Game14",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "SenegalWSwitzerland"
+      },
+      {
+        "game": "Game15",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "SerbiaWMexico II"
+      },
+      {
+        "game": "Game16",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "South KoreaWDenmark II"
+      },
+      {
+        "game": "Game17",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "ArgentinaWCanada"
+      },
+      {
+        "game": "Game18",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "CroatiaWDenmark"
+      },
+      {
+        "game": "Game19",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "GhanaWSpain"
+      },
+      {
+        "game": "Game20",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "IranWJapan"
+      },
+      {
+        "game": "Game21",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "MoroccoWMexico"
+      },
+      {
+        "game": "Game22",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "ColombiaWNigeria"
+      },
+      {
+        "game": "Game23",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "SenegalWQatar"
+      },
+      {
+        "game": "Game24",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "SerbiaWSouth Korea"
+      },
+      {
+        "game": "Game25",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "CroatiaWArgentina"
+      },
+      {
+        "game": "Game26",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "IranWGhana"
+      },
+      {
+        "game": "Game27",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "ColombiaWMorocco"
+      },
+      {
+        "game": "Game28",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "SerbiaWSenegal"
+      },
+      {
+        "game": "Game29",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "IranWCroatia"
+      },
+      {
+        "game": "Game30",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "SerbiaWColombia"
+      },
+      {
+        "game": "Game31",
+        "stage": "Final",
+        "points": 16,
+        "prediction": "IranWSerbia"
+      }
+    ]
   }
 ];
