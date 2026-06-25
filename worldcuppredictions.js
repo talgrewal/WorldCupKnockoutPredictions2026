@@ -8,5 +8,44 @@ const predictions = [
     "predictions": [
       "Game1: AWB"
     ]
+  },
+  {
+    "name": "Tony Tony",
+    "date": "2026-06-25T09:30:30.506Z",
+    "goldenBoot": "Harry Kane",
+    "goldenBall": "Messi",
+    "predictions": [
+      "Game1: ArgentinaWAustralia",
+      "Game2: BrazilWCanada",
+      "Game3: FranceWCroatia",
+      "Game4: EnglandWDenmark",
+      "Game5: SpainWEcuador",
+      "Game6: GhanaWGermany",
+      "Game7: IranWPortugal",
+      "Game8: JapanWNetherlands",
+      "Game9: BelgiumWMexico",
+      "Game10: MoroccoWItaly",
+      "Game11: UruguayWNigeria",
+      "Game12: ColombiaWPoland",
+      "Game13: USAWQatar",
+      "Game14: SwitzerlandWSenegal",
+      "Game15: Mexico IIWSerbia",
+      "Game16: Denmark IIWSouth Korea",
+      "Game17: BrazilWArgentina",
+      "Game18: EnglandWFrance",
+      "Game19: SpainWGhana",
+      "Game20: IranWJapan",
+      "Game21: BelgiumWMorocco",
+      "Game22: UruguayWColombia",
+      "Game23: USAWSwitzerland",
+      "Game24: Mexico IIWDenmark II",
+      "Game25: EnglandWBrazil",
+      "Game26: SpainWIran",
+      "Game27: BelgiumWUruguay",
+      "Game28: USAWMexico II",
+      "Game29: EnglandWSpain",
+      "Game30: USAWBelgium",
+      "Game31: USAWEngland"
+    ]
   }
 ];
