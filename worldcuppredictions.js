@@ -5654,5 +5654,200 @@ const predictions = [
         "prediction": "🇫🇷FranceW🇧🇷Brazil"
       }
     ]
+  },
+  {
+    "name": "Rajbir",
+    "date": "2026-06-28T20:23:36.700Z",
+    "whichGroup": "theboys",
+    "goldenBoot": "Messi",
+    "goldenBall": "Mbappe",
+    "predictions": [
+      {
+        "game": "Game1",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇨🇦CanadaW🇿🇦South Africa"
+      },
+      {
+        "game": "Game2",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇲🇦MoroccoW🇳🇱Netherlands"
+      },
+      {
+        "game": "Game3",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇫🇷FranceW🇸🇪Sweden"
+      },
+      {
+        "game": "Game4",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇩🇪GermanyW🇵🇾Paraguay"
+      },
+      {
+        "game": "Game5",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇵🇹PortugalW🇭🇷Croatia"
+      },
+      {
+        "game": "Game6",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇪🇸SpainW🇦🇹Austria"
+      },
+      {
+        "game": "Game7",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇺🇸United StatesW🇧🇦Bosnia-Herzegovina"
+      },
+      {
+        "game": "Game8",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇧🇪BelgiumW🇸🇳Senegal"
+      },
+      {
+        "game": "Game9",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇧🇷BrazilW🇯🇵Japan"
+      },
+      {
+        "game": "Game10",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇳🇴NorwayW🇨🇮Ivory Coast"
+      },
+      {
+        "game": "Game11",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇲🇽MexicoW🇪🇨Ecuador"
+      },
+      {
+        "game": "Game12",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇬🇧EnglandW🇨🇩Congo DR"
+      },
+      {
+        "game": "Game13",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇦🇷ArgentinaW🇨🇻Cape Verde"
+      },
+      {
+        "game": "Game14",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇦🇺AustraliaW🇪🇬Egypt"
+      },
+      {
+        "game": "Game15",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇩🇿AlgeriaW🇨🇭Switzerland"
+      },
+      {
+        "game": "Game16",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇬🇭GhanaW🇨🇴Colombia"
+      },
+      {
+        "game": "Game17",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇲🇦MoroccoW🇨🇦Canada"
+      },
+      {
+        "game": "Game18",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇫🇷FranceW🇩🇪Germany"
+      },
+      {
+        "game": "Game19",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇪🇸SpainW🇵🇹Portugal"
+      },
+      {
+        "game": "Game20",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇧🇪BelgiumW🇺🇸United States"
+      },
+      {
+        "game": "Game21",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇧🇷BrazilW🇳🇴Norway"
+      },
+      {
+        "game": "Game22",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇬🇧EnglandW🇲🇽Mexico"
+      },
+      {
+        "game": "Game23",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇦🇷ArgentinaW🇦🇺Australia"
+      },
+      {
+        "game": "Game24",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇬🇭GhanaW🇩🇿Algeria"
+      },
+      {
+        "game": "Game25",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇫🇷FranceW🇲🇦Morocco"
+      },
+      {
+        "game": "Game26",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇪🇸SpainW🇧🇪Belgium"
+      },
+      {
+        "game": "Game27",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇧🇷BrazilW🇬🇧England"
+      },
+      {
+        "game": "Game28",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇦🇷ArgentinaW🇬🇭Ghana"
+      },
+      {
+        "game": "Game29",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "🇫🇷FranceW🇪🇸Spain"
+      },
+      {
+        "game": "Game30",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "🇦🇷ArgentinaW🇧🇷Brazil"
+      },
+      {
+        "game": "Game31",
+        "stage": "Final",
+        "points": 16,
+        "prediction": "🇫🇷FranceW🇦🇷Argentina"
+      }
+    ]
   }
 ];
