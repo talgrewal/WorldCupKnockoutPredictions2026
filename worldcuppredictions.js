@@ -1949,5 +1949,200 @@ const predictions = [
         "prediction": "🇩🇪GermanyW🇦🇷Argentina"
       }
     ]
+  },
+  {
+    "name": "Upset City! Cabo Verde!!",
+    "date": "2026-06-28T16:58:49.169Z",
+    "whichGroup": "theboys",
+    "goldenBoot": "Kevin Pina",
+    "goldenBall": "Teboho Mokoena",
+    "predictions": [
+      {
+        "game": "Game1",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇿🇦South AfricaW🇨🇦Canada"
+      },
+      {
+        "game": "Game2",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇲🇦MoroccoW🇳🇱Netherlands"
+      },
+      {
+        "game": "Game3",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇸🇪SwedenW🇫🇷France"
+      },
+      {
+        "game": "Game4",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇵🇾ParaguayW🇩🇪Germany"
+      },
+      {
+        "game": "Game5",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇭🇷CroatiaW🇵🇹Portugal"
+      },
+      {
+        "game": "Game6",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇦🇹AustriaW🇪🇸Spain"
+      },
+      {
+        "game": "Game7",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇧🇦Bosnia-HerzegovinaW🇺🇸United States"
+      },
+      {
+        "game": "Game8",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇸🇳SenegalW🇧🇪Belgium"
+      },
+      {
+        "game": "Game9",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇯🇵JapanW🇧🇷Brazil"
+      },
+      {
+        "game": "Game10",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇨🇮Ivory CoastW🇳🇴Norway"
+      },
+      {
+        "game": "Game11",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇪🇨EcuadorW🇲🇽Mexico"
+      },
+      {
+        "game": "Game12",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇨🇩Congo DRW🇬🇧England"
+      },
+      {
+        "game": "Game13",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇨🇻Cape VerdeW🇦🇷Argentina"
+      },
+      {
+        "game": "Game14",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇦🇺AustraliaW🇪🇬Egypt"
+      },
+      {
+        "game": "Game15",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇩🇿AlgeriaW🇨🇭Switzerland"
+      },
+      {
+        "game": "Game16",
+        "stage": "Round of 32",
+        "points": 1,
+        "prediction": "🇬🇭GhanaW🇨🇴Colombia"
+      },
+      {
+        "game": "Game17",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇿🇦South AfricaW🇲🇦Morocco"
+      },
+      {
+        "game": "Game18",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇵🇾ParaguayW🇸🇪Sweden"
+      },
+      {
+        "game": "Game19",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇦🇹AustriaW🇭🇷Croatia"
+      },
+      {
+        "game": "Game20",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇧🇦Bosnia-HerzegovinaW🇸🇳Senegal"
+      },
+      {
+        "game": "Game21",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇨🇮Ivory CoastW🇯🇵Japan"
+      },
+      {
+        "game": "Game22",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇨🇩Congo DRW🇪🇨Ecuador"
+      },
+      {
+        "game": "Game23",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇨🇻Cape VerdeW🇦🇺Australia"
+      },
+      {
+        "game": "Game24",
+        "stage": "Round of 16",
+        "points": 2,
+        "prediction": "🇩🇿AlgeriaW🇬🇭Ghana"
+      },
+      {
+        "game": "Game25",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇿🇦South AfricaW🇵🇾Paraguay"
+      },
+      {
+        "game": "Game26",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇧🇦Bosnia-HerzegovinaW🇦🇹Austria"
+      },
+      {
+        "game": "Game27",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇨🇮Ivory CoastW🇨🇩Congo DR"
+      },
+      {
+        "game": "Game28",
+        "stage": "Quarterfinals",
+        "points": 4,
+        "prediction": "🇨🇻Cape VerdeW🇩🇿Algeria"
+      },
+      {
+        "game": "Game29",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "🇿🇦South AfricaW🇧🇦Bosnia-Herzegovina"
+      },
+      {
+        "game": "Game30",
+        "stage": "Semifinals",
+        "points": 8,
+        "prediction": "🇨🇻Cape VerdeW🇨🇮Ivory Coast"
+      },
+      {
+        "game": "Game31",
+        "stage": "Final",
+        "points": 16,
+        "prediction": "🇨🇻Cape VerdeW🇿🇦South Africa"
+      }
+    ]
   }
 ];
