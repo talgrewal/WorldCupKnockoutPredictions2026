@@ -5461,7 +5461,7 @@ const predictions = [
     ]
   },
   {
-    "name": "B",
+    "name": "Balraj",
     "date": "2026-06-28T20:06:40.928Z",
     "whichGroup": "lafamilia",
     "goldenBoot": "Messi",
@@ -6436,7 +6436,7 @@ const predictions = [
     ]
   },
   {
-    "name": "naaZ",
+    "name": "Naaz",
     "date": "2026-06-28T23:03:45.318Z",
     "whichGroup": "lafamilia",
     "goldenBoot": "uhhh",
