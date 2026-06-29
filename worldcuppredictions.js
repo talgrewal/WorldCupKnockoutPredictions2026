@@ -6633,7 +6633,7 @@ const predictions = [
   {
     "name": "Josh",
     "date": "2026-06-29T02:14:17.249Z",
-    "whichGroup": "ssdads",
+    "whichGroup": "thedads",
     "goldenBoot": "Messi",
     "goldenBall": "Messi",
     "predictions": [
