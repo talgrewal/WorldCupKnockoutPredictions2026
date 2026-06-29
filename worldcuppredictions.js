@@ -3513,7 +3513,7 @@ const predictions = [
   {
     "name": "Tal",
     "date": "2026-06-28T17:57:44.842Z",
-    "whichGroup": "ssdads",
+    "whichGroup": "thedads",
     "goldenBoot": "Harry Kane",
     "goldenBall": "Mbappe",
     "predictions": [
