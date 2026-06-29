@@ -1758,7 +1758,7 @@ const predictions = [
   {
     "name": "The German’s are Coming! The Germans!!",
     "date": "2026-06-28T16:53:39.779Z",
-    "whichGroup": "theboys",
+    "whichGroup": "default",
     "goldenBoot": "Deniz Undav",
     "goldenBall": "Messi",
     "predictions": [
@@ -1953,7 +1953,7 @@ const predictions = [
   {
     "name": "Upset City! Cabo Verde!!",
     "date": "2026-06-28T16:58:49.169Z",
-    "whichGroup": "theboys",
+    "whichGroup": "default",
     "goldenBoot": "Kevin Pina",
     "goldenBall": "Teboho Mokoena",
     "predictions": [
@@ -2148,7 +2148,7 @@ const predictions = [
   {
     "name": "Team Maple Syrup",
     "date": "2026-06-28T17:01:04.389Z",
-    "whichGroup": "theboys",
+    "whichGroup": "default",
     "goldenBoot": "Messi",
     "goldenBall": "Messi",
     "predictions": [
