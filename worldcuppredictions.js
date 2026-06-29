@@ -5851,7 +5851,7 @@ const predictions = [
     ]
   },
   {
-    "name": "Tony",
+    "name": "Deep",
     "date": "2026-06-28T21:15:04.252Z",
     "whichGroup": "theboys",
     "goldenBoot": "Kylian Mbappé",
