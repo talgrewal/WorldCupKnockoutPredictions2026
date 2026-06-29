@@ -6,7 +6,7 @@
     { "game": "Game2",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game3",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game4",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
-    { "game": "Game5",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
+    { "game": "Game5",  "stage": "Round of 32",   "points": 1,  "score": "🇧🇷BrazilW🇯🇵Japan" },
     { "game": "Game6",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game7",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game8",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
