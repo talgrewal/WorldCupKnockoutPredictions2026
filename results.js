@@ -3,7 +3,7 @@
   "goldenBall": "NoWinnerYet",
   "score": [
     { "game": "Game1",  "stage": "Round of 32",   "points": 1,  "score": "🇨🇦CanadaW🇿🇦South Africa" },
-    { "game": "Game2",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
+    { "game": "Game2",  "stage": "Round of 32",   "points": 1,  "score": "🇲🇦MoroccoW🇳🇱Netherlands" },
     { "game": "Game3",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game4",  "stage": "Round of 32",   "points": 1,  "score": "🇵🇾ParaguayW🇩🇪Germany" },
     { "game": "Game5",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
