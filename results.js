@@ -12,7 +12,7 @@
     { "game": "Game8",  "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game9",  "stage": "Round of 32",   "points": 1,  "score": "🇧🇷BrazilW🇯🇵Japan" },
     { "game": "Game10", "stage": "Round of 32",   "points": 1,  "score": "🇳🇴NorwayW🇨🇮Ivory Coast" },
-    { "game": "Game11", "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
+    { "game": "Game11", "stage": "Round of 32",   "points": 1,  "score": "🇲🇽MexicoW🇪🇨Ecuador" },
     { "game": "Game12", "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game13", "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
     { "game": "Game14", "stage": "Round of 32",   "points": 1,  "score": "NotPlayedYet" },
