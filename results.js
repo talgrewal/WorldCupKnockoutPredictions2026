@@ -49,7 +49,7 @@ const results = {
       "game": "Game8",
       "stage": "Round of 32",
       "points": 1,
-      "score": "NotPlayedYet"
+      "score": "🇧🇪BelgiumW🇸🇳Senegal"
     },
     {
       "game": "Game9",
