@@ -31,7 +31,7 @@ const results = {
       "game": "Game5",
       "stage": "Round of 32",
       "points": 1,
-      "score": "NotPlayedYet"
+      "score": "🇵🇹PortugalW🇭🇷Croatia"
     },
     {
       "game": "Game6",
@@ -91,7 +91,7 @@ const results = {
       "game": "Game15",
       "stage": "Round of 32",
       "points": 1,
-      "score": "NotPlayedYet"
+      "score": "🇨🇭SwitzerlandW🇩🇿Algeria"
     },
     {
       "game": "Game16",
