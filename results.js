@@ -79,7 +79,7 @@ const results = {
       "game": "Game13",
       "stage": "Round of 32",
       "points": 1,
-      "score": "NotPlayedYet"
+      "score": "🇦🇷ArgentinaW🇨🇻Cape Verde"
     },
     {
       "game": "Game14",
