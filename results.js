@@ -103,7 +103,7 @@ const results = {
       "game": "Game17",
       "stage": "Round of 16",
       "points": 2,
-      "score": "NotPlayedYet"
+      "score": "🇲🇦MoroccoW🇨🇦Canada"
     },
     {
       "game": "Game18",
@@ -115,7 +115,7 @@ const results = {
       "game": "Game19",
       "stage": "Round of 16",
       "points": 2,
-      "score": "NotPlayedYet"
+      "score": "🇵🇹PortugalW🇪🇸Spain"
     },
     {
       "game": "Game20",
