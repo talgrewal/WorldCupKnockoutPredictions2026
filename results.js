@@ -127,7 +127,7 @@ const results = {
       "game": "Game21",
       "stage": "Round of 16",
       "points": 2,
-      "score": "NotPlayedYet"
+      "score": "🇳🇴NorwayW🇧🇷Brazil"
     },
     {
       "game": "Game22",
