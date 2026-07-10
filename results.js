@@ -151,7 +151,7 @@ const results = {
       "game": "Game25",
       "stage": "Quarterfinals",
       "points": 4,
-      "score": "NotPlayedYet"
+      "score": "🇫🇷FranceW🇲🇦Morocco"
     },
     {
       "game": "Game26",
