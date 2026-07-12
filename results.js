@@ -163,7 +163,7 @@ const results = {
       "game": "Game27",
       "stage": "Quarterfinals",
       "points": 4,
-      "score": "NotPlayedYet"
+      "score": "🇬🇧EnglandW🇳🇴Norway"
     },
     {
       "game": "Game28",
