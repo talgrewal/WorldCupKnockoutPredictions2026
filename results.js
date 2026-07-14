@@ -169,13 +169,13 @@ const results = {
       "game": "Game28",
       "stage": "Quarterfinals",
       "points": 4,
-      "score": "NotPlayedYet"
+      "score": "🇦🇷ArgentinaW🇨🇭Switzerland"
     },
     {
       "game": "Game29",
       "stage": "Semifinals",
       "points": 8,
-      "score": "NotPlayedYet"
+      "score": "🇪🇸SpainW🇫🇷France"
     },
     {
       "game": "Game30",
