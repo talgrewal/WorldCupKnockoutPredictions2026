@@ -181,7 +181,7 @@ const results = {
       "game": "Game30",
       "stage": "Semifinals",
       "points": 8,
-      "score": "NotPlayedYet"
+      "score": "🇦🇷ArgentinaW🇬🇧England"
     },
     {
       "game": "Game31",
