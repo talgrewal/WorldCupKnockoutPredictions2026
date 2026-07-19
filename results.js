@@ -187,7 +187,7 @@ const results = {
       "game": "Game31",
       "stage": "Final",
       "points": 16,
-      "score": "NotPlayedYet"
+      "score": "🇪🇸SpainW🇦🇷Argentina"
     }
   ]
 };
