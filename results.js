@@ -1,6 +1,6 @@
 // Official results — updated automatically by sync-results.
 const results = {
-  "goldenBoot": "mbappe",
+  "goldenBoot": "Mbappe",
   "goldenBall": "Rodri",
   "score": [
     {
